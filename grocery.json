@@ -1,0 +1,82 @@
+[
+       {
+          "slno":"1",
+          "dept":"Vegetables",
+          "item":"Tomato",
+          "qty":"2",
+          "unit":"kg",
+          "notes":"Medium size"
+       },
+       {
+         "slno":"2",
+         "dept":"Vegetables",
+         "item":"Carrot",
+         "qty":"2",
+         "unit":"kg",
+         "notes":"Long one"
+       },
+       {
+         "slno":"3",
+         "dept":"Vegetables",
+         "item":"Bitter Gourd",
+         "qty":"1",
+         "unit":"kg",
+         "notes":"One big piece"
+       },
+       {
+         "slno":"4",
+         "dept":"Bakery",
+         "item":"Bread Rolls",
+         "qty":"1",
+         "unit":"Packet",
+         "notes":"Fresh"
+       },
+       {
+         "slno":"5",
+         "dept":"Bakery",
+         "item":"Cookies",
+         "qty":"2",
+         "unit":"Packet",
+         "notes":"Chocolate filled"
+       },
+       {
+         "slno":"6",
+         "dept":"Bakery",
+         "item":"Cake",
+         "qty":"500",
+         "unit":"gm",
+         "notes":"Tea cake"
+       },
+       {
+         "slno":"7",
+         "dept":"Frozen",
+         "item":"Ice Cream",
+         "qty":"5",
+         "unit":"Cups",
+         "notes":"vanilla & Strawberry"
+       },
+       {
+         "slno":"8",
+         "dept":"Frozen",
+         "item":"Pastry",
+         "qty":"3",
+         "unit":"Pieces",
+         "notes":"Fresh"
+       },
+       {
+         "slno":"9",
+         "dept":"Refrigerator",
+         "item":"Eggs",
+         "qty":"10",
+         "unit":"No:s",
+         "notes":"Hen"
+       },
+       {
+         "slno":"10",
+         "dept":"Refrigerator",
+         "item":"Butter",
+         "qty":"1",
+         "unit":"Packet",
+         "notes":"Cold and fresh"
+       }
+]
