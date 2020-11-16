@@ -57,3 +57,8 @@
     50% { background-position: 400% 0; }
     100% { background-position: 0 0; }
 }
+body {
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/shopping-bag-full-of-fresh-vegetables-and-fruits-royalty-free-image-1128687123-1564523576.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
